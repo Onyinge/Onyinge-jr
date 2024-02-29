@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="524d6682-ab31-4807-b88b-261311c62aa4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bxxwI8ejw57imKnUxHB8iQfrwC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/Boostrap&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\Boostrap" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="524d6682-ab31-4807-b88b-261311c62aa4" name="Changes" comment="" />
+      <created>1707170767635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707170767635</updated>
+      <workItem from="1707170780662" duration="978000" />
+      <workItem from="1707171774044" duration="209000" />
+      <workItem from="1707172016459" duration="4625000" />
+      <workItem from="1707254204190" duration="9244000" />
+      <workItem from="1707340771888" duration="7949000" />
+      <workItem from="1707359151484" duration="1406000" />
+      <workItem from="1707428070292" duration="2382000" />
+      <workItem from="1707430487486" duration="5884000" />
+      <workItem from="1707502241545" duration="1157000" />
+      <workItem from="1707512722539" duration="66000" />
+      <workItem from="1707518132005" duration="102000" />
+      <workItem from="1707518627774" duration="62000" />
+      <workItem from="1707773905184" duration="1548000" />
+      <workItem from="1708507607851" duration="1229000" />
+      <workItem from="1708687621701" duration="7000" />
+      <workItem from="1708778758919" duration="683000" />
+      <workItem from="1708785424701" duration="3247000" />
+      <workItem from="1708947165602" duration="179000" />
+      <workItem from="1708955031969" duration="44000" />
+      <workItem from="1709033535970" duration="81000" />
+      <workItem from="1709033850331" duration="12000" />
+      <workItem from="1709033965808" duration="284000" />
+      <workItem from="1709210046550" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
